@@ -1,0 +1,8 @@
+
+
+Cube -> Component = Transform ,Cube(Mesh Filter),Mesh Renderer,Box Collider
+Sphere -> Component = Transfrom, Sphere(MeshFilter), Mesh Renderer,Sphere Collider
+Capsule -> Component = Transfrom, Capsule(MeshFilter), Mesh Renderer,Capsule Collider
+Quad -> Component = Transfrom, Quad(MeshFilter), Mesh Renderer,Sphere Collider
+Plane -> Component = Transfrom, Plane(MeshFilter), Mesh Renderer,Sphere Collider
+
